@@ -1,4 +1,4 @@
-# Oi! Seja bem vindo ao meu Github 👋
+# Seja bem vindo ao meu Github 👋
 ### Meu nome é Thiago Petherson e trabalho com programação há mais ou menos 6 anos (talvez um pouco mais).
 
 <!--
