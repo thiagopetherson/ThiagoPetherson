@@ -1,5 +1,5 @@
 # Oi! Seja bem vindo ao meu Github 👋
-## Meu nome é Thiago Petherson, moro no Rio de Janeiro e trabalho com programação há mais ou menos 6 anos (talvez um pouco mais).
+### Meu nome é Thiago Petherson, moro no Rio de Janeiro e trabalho com programação há mais ou menos 6 anos (talvez um pouco mais).
 
 <!--
 **thiagopetherson/ThiagoPetherson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
