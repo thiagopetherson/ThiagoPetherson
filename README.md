@@ -1,5 +1,5 @@
 # Oi! Seja bem vindo ao meu Github 👋
-#### Meu nome é Thiago Petherson e trabalho com programação há mais ou menos 6 anos (talvez um pouco mais).
+### Meu nome é Thiago Petherson e trabalho com programação há mais ou menos 6 anos (talvez um pouco mais).
 
 <!--
 **thiagopetherson/ThiagoPetherson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,7 @@ Me encontre nesses canais:<br>
 
 <div>
 <a href="https://www.linkedin.com/in/thiago-petherson-21b7b6193/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://medium.com/@thiagopetherson" target="_blank" style="margin-left: 3px;"><img loading="lazy" src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>   
+<a href="https://medium.com/@thiagopetherson" target="_blank" style="margin-left: 5px;"><img loading="lazy" src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>   
 </div>
 
 ## Estatísticas:
