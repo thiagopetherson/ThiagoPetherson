@@ -37,8 +37,8 @@ Me encontre nesses canais:<br>
 
 <div>
 <a href="https://github.com/thiagopetherson">
-<img loading="lazy" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopetherson&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="220em" src="https://github-readme-stats.vercel.app/api?username=thiagopetherson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" width="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopetherson&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" width="210em" src="https://github-readme-stats.vercel.app/api?username=thiagopetherson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <picture>
