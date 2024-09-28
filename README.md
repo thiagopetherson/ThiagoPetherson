@@ -42,4 +42,3 @@ Me encontre nesses canais:<br>
 </div>
 
 ![Snake animation](https://github.com/thiagopetherson/thiagopetherson/blob/output/github-contribution-grid-snake.svg)
-
