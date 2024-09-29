@@ -5,7 +5,7 @@
 **thiagopetherson/ThiagoPetherson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Atualmente trabalho na CLS Brasil
+- 🔭 Sou programador backend e frontend na CLS Brasil.
 - 🌱 Atualmente tenho estuda sobre design patterns, architecture patterns, clean code, docker e melhorando meu inglês.
 - 👯 Eu procuro ajudar pessoas que precisam, assim como precisei, preciso e precisarei.
 - 📫 Você me encontra no: Linkedin, Medium ou Aqui.
