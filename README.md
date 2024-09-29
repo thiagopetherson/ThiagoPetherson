@@ -1,5 +1,5 @@
 # Seja bem vindo ao meu Github 👋
-### Meu nome é Thiago Petherson e trabalho com programação há mais ou menos 6 anos (talvez um pouco mais).
+### Meu nome é Thiago Petherson e trabalho com programação há aproximadamente 6 anos.
 
 <!--
 **thiagopetherson/ThiagoPetherson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,10 +8,7 @@
 - 🔭 Atualmente trabalho na CLS Brasil
 - 🌱 Atualmente tenho estuda sobre design patterns, architecture patterns, clean code, docker e melhorando meu inglês.
 - 👯 Eu procuro ajudar pessoas que precisam, assim como precisei, preciso e precisarei.
-- 🤔 Tenho procurado trabalhar minha saúde mental para acompanhar a dinâmica rotina da área TI.
-- 💬 Pode me perguntar sobre qualquer assunto que eu tenha conhecimento.
 - 📫 Você me encontra no: Linkedin, Medium ou Aqui.
-- 😄 Pronome: Use o que te faz se sentir mais cômodo.
 - ⚡ Curiosidade: Eu trabalhava como Técnico em Segurança do Trabalho antes de me tornar um fucking programador.
 
 ## Ferramentas e Tecnologias:
