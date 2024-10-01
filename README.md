@@ -6,8 +6,8 @@
 -->
 
 - 🔭 Sou programador backend e frontend na CLS Brasil.
-- 🌱 Atualmente tenho estuda sobre design patterns, architecture patterns, clean code, docker e melhorando meu inglês.
-- 👯 Eu procuro ajudar pessoas que precisam, assim como precisei, preciso e precisarei.
+- 🌱 Atualmente tenho estudado sobre design patterns, architecture patterns, clean code, docker e melhorando meu inglês.
+- 👯 Procuro ajudar pessoas que precisam, assim como precisei, preciso e precisarei.
 - 📫 Você me encontra no: Linkedin, Medium ou Aqui.
 - ⚡ Curiosidade: Eu trabalhava como Técnico em Segurança do Trabalho antes de me tornar um fucking programador.
 
